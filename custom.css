@@ -29,6 +29,10 @@ h1 {
   -webkit-font-smoothing: antialiased;
 }
 
+p {
+  font-size: 14px;
+}
+
 *{
   direction:rtl;
   color:#444;
