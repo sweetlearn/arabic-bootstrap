@@ -29,6 +29,10 @@ h1 {
   -webkit-font-smoothing: antialiased;
 }
 
+*{
+  direction:rtl;
+  color:#444;
+}
 
 h3{
   background:#563d7c;
