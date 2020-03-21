@@ -1,0 +1,37 @@
+
+@import url(https://fonts.googleapis.com/earlyaccess/amiri.css); 
+@import url(https://fonts.googleapis.com/earlyaccess/droidarabickufi.css); 
+@import url(https://fonts.googleapis.com/earlyaccess/lateef.css); 
+
+.amiri{font-family: 'Amiri', serif;} 
+.droid-arabic-kufi{font-family: 'Droid Arabic Kufi', serif;} 
+.lateef{font-family: 'Lateef', serif;} 
+
+
+body {
+  font-family: 'Droid Arabic Kufi', serif;
+  color: rgba(0,0,0,0.8);
+  font-weight: 400;
+  line-height: 1.58;
+  letter-spacing: -.003em;
+  font-size: 1.3rem;
+  padding: 50px;
+}
+
+h1 {
+  font-family: 'Droid Arabic Kufi', serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 36px;
+  line-height: 1.15;
+  letter-spacing: -.02em;
+  color: rgba(0,0,0,0.8);
+  -webkit-font-smoothing: antialiased;
+}
+
+
+h3{
+  background:#563d7c;
+  color:#f9f9f9;
+   padding:10px;
+}
